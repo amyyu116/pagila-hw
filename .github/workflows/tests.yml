@@ -31,4 +31,4 @@ jobs:
         sleep 20
 
         # run the tests
-        docker-compose exec pg ./fixme.sh
+        docker-compose exec -T pg ./fixme.sh
