@@ -54,4 +54,4 @@ The following picture illustrates the database's structure:
     If all test cases pass, you will receive full credit.
     For the first failing test case, you will receive -4 points.
     For each additional failing test case, you will receive -1 point. 
-    If the github actions do not run correctly, you will receive a 0.
+    If the github actions do not run correctly, you will receive a 0
